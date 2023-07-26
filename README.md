@@ -4,12 +4,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped using [`create-nex
 
 ## How to use
 
-Download the example [or clone the repo](https://github.com/mui/material-ui):
+Clone the repo:
 
 <!-- #default-branch-switch -->
 
 ```bash
-curl https://codeload.github.com/mui/material-ui/tar.gz/master | tar -xz --strip=2  material-ui-master/examples/material-next-app-router-ts
+git clone https://github.com/jsphkhan/material-next-app-router-ts.git
 cd material-next-app-router-ts
 ```
 
@@ -35,9 +35,4 @@ You can start editing the page by modifying `src/app/page.tsx`. The page auto-up
 
 This example uses [`next/font/google`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts#google-fonts) to automatically optimize and load Roboto, a custom Google Font.
 
-## Learn More
-
-To learn more about this example:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Customizing Material UI](https://mui.com/material-ui/customization/how-to-customize/) - approaches to customizing Material UI.
+This example also shows RTL support with SSR using stylis rtl plugins
