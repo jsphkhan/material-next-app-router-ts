@@ -1,3 +1,4 @@
+// added use client because tss-react does not work with server components
 'use client'
 
 import * as React from 'react';
