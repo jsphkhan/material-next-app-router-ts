@@ -1,3 +1,8 @@
+/** 
+ * Sampe parent project
+ * https://github.com/mui/material-ui/tree/master/examples/material-next-app-router-ts
+*/
+
 import * as React from 'react';
 import Link from 'next/link';
 import AppBar from '@mui/material/AppBar';
